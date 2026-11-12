@@ -1,10 +1,5 @@
 # LEARNINGS — Reels @mon_futur_m
 
-## 2026-11-12 soir — Reel de référence @0xloucash (sound designer Claude), envoyé par Noa
-- 3 987 likes / 3 440 commentaires : le CTA « envoie par message SON » (mot-clé en commentaire → ressource en DM) fait commenter presque tout le monde.
-- Techniques : personnage/mascotte constant, icônes dessinées animées sur fond sombre, gros titres serif qui claquent (« LA QUALITÉ », « 3 CHOSES À INSTALLER »), sous-titre discret en bas, inserts de captures d'écran comme preuve.
-- À appliquer : CTA « Commente GUIDE » (guide perso en DM) au lieu de « lien en bio » ; titres serif + dessins animés ; un élément récurrent reconnaissable.
-
 ## 2026-11-12 (Windsor, 14 jours)
 - Aucun nouveau Reel dans les stats : portée nulle le 11/11 (checklist et « 23:47 » non publiés ou pas encore comptés). Seuls 3 Reels mesurés, tous publiés vers 18h30-19h50 (Paris).
 - Léo reste le meilleur (148 vues, 11,7 s). Reel du 12/11 construit dessus : histoire émotionnelle « message de toi à 25 ans », 40 s, une phrase à la fois.
