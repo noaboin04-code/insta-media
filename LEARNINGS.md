@@ -1,5 +1,11 @@
 # LEARNINGS — Reels @mon_futur_m
 
+## 2026-11-13 (Windsor, 14 jours, 4 Reels — toujours trop peu pour conclure)
+- Reel « Message de toi à 25 ans » (12/11, publié 19h39 Paris, 40 s) : 112 vues, 98 de portée, 4,1 s de visionnage moyen (~10 % de la durée). Pas meilleur que les autres ; Léo reste devant (148 vues, 11,7 s).
+- Portée plafonnée vers 100-135 par Reel, 0 like/commentaire/partage/enregistrement sur les 4 : la diffusion reste limitée au cercle actuel.
+- Aucun Reel publié le 11/11 (portée du jour = 0) : un jour sauté.
+- Hypothèse (à tester) : le départ lent (écran quasi vide 0,6 s, texte qui apparaît en fondu) fait quitter dans les 3-4 premières secondes. Le hook doit être lisible dès la première image.
+
 ## 2026-11-12 (Windsor, 14 jours)
 - Aucun nouveau Reel dans les stats : portée nulle le 11/11 (checklist et « 23:47 » non publiés ou pas encore comptés). Seuls 3 Reels mesurés, tous publiés vers 18h30-19h50 (Paris).
 - Léo reste le meilleur (148 vues, 11,7 s). Reel du 12/11 construit dessus : histoire émotionnelle « message de toi à 25 ans », 40 s, une phrase à la fois.
